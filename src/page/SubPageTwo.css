@@ -1,0 +1,18 @@
+.user {
+    background-color: hsl(30, 38%, 92%);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.text2 {
+    max-width: 500px;
+    height: 200px;
+    max-height: 500px;
+    background-color: hsl(228, 12%, 48%);
+    margin: 30px;
+    border-radius: 10px;
+    padding: 10px;
+    color: hsl(30, 38%, 92%);
+}

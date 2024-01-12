@@ -1,0 +1,25 @@
+nav {
+    background-color: hsl(158, 36%, 37%);
+    color: hsl(30, 38%, 92%);
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.button {
+    gap: 10px;
+    display: flex;
+}
+
+footer {
+    background-color: hsl(158, 36%, 37%);
+    color: hsl(30, 38%, 92%);
+    padding: 15px;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+
+body {
+    background-color: hsl(30, 38%, 92%);
+}
